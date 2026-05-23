@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.dist-info/
+.env
+.venv/
+
+# Docker
+Dockerfile
+*.tar
+
+# IDE / editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
